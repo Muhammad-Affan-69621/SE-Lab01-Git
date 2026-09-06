@@ -1,0 +1,6 @@
+Name: Muhammad Affan
+Registration Number: 69621
+Department: Information Technology
+Semester: 2nd
+Programming Language: Python
+Software Engineering Interest: Version Control and Software Development
